@@ -8,9 +8,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@firebase/firestore": "^1.16.2",
+    "@firebase/storage": "^0.3.41",
+    "@firebase/util": "^0.3.0",
     "core-js": "^3.6.5",
+    "discord.js": "^12.2.0",
+    "firebase": "^7.17.1",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-responsive-video-background-player": "^1.1.1",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.3.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
